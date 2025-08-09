@@ -26,7 +26,7 @@ No additional setup needed.
 
 ## folder structure
 
-vscode-landing-page/
+vscode-landing-page/  
 ├── index.html
 
 ├── style.css
